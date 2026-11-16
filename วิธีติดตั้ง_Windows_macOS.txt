@@ -1,0 +1,26 @@
+==========================================================
+  ม็อดภาษาไทย Feeding Frenzy (LINE Seed Sans TH) v0.1.0
+  ผู้แปลและจัดทำม็อด: porton007
+==========================================================
+
+[สำหรับ Windows]
+1. ปิดเกม Feeding Frenzy ให้เรียบร้อยก่อน
+2. แตกไฟล์ ZIP ม็อดนี้ไปวางไว้ในโฟลเดอร์เกม (โฟลเดอร์เดียวกับ FeedingFrenzy.exe และ FFArchive.saf)
+   * จะวางเป็นโฟลเดอร์ย่อยไว้ข้างในเลยก็ได้
+3. ดับเบิลคลิกไฟล์ Install.cmd
+   - ตัวติดตั้งจะตรวจสอบแฮช SHA-256 ของไฟล์เกม สำรองต้นฉบับไว้ที่ FeedingFrenzyThai_Backup
+     และอัปเดตม็อดให้โดยอัตโนมัติ (ไม่ต้องลง Python หรือฟอนต์ใน Windows)
+4. เปิดเกม FeedingFrenzy.exe เล่นได้เลย!
+
+วิธีถอนการติดตั้ง (Windows):
+- ปิดเกม แล้วดับเบิลคลิกไฟล์ Uninstall.cmd (ระบบจะคืนไฟล์เดิมจาก FeedingFrenzyThai_Backup)
+
+----------------------------------------------------------
+
+[สำหรับ macOS (กรณีรันผ่าน Wine / CrossOver / Wrapper หรือ Data ภายใน .app)]
+1. ปิดเกมก่อน
+2. วางโฟลเดอร์ม็อดนี้ไว้ในโฟลเดอร์เกมที่มี FFArchive.saf (เช่น ข้างใน .app/Contents/Resources/Data/ หรือโฟลเดอร์เกม)
+3. เปิด Terminal แล้วรัน:
+   chmod +x Install.command Uninstall.command
+   ./Install.command
+4. หากต้องการถอนการติดตั้ง ให้รัน ./Uninstall.command

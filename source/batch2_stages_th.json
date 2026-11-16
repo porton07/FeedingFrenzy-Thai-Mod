@@ -1,0 +1,258 @@
+{
+  "config/stages/barracuda/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "A chance encounter.": "การเผชิญหน้าโดยบังเอิญ",
+    "What's this? You've lost your way and stumbled into really\\n\r\n\t\t\t\t\t\t\t\t\tdeep waters! Can you find your way back? It's pretty scary\\n\r\n\t\t\t\t\t\t\t\t\tout here!\\n": "เกิดอะไรขึ้นเนี่ย? คุณหลงทางจนพลัดเข้ามาในเขตน้ำลึกมาก!\\nคุณจะหาทางกลับได้ไหม? แถวนี้มันดูน่ากลัว\\nเอาเรื่องเลยนะ!\\n",
+    "Tail Credit:\\n\r\n\t\t\t\t\t\t\t\t\t    Don't forget that you can bite the tails of some big\\n\r\n\t\t\t\t\t\t\t\t\t    fish. When you see the hazard sign, get ready to snack!\\n": "คะแนนกัดหาง:\\n    อย่าลืมว่าคุณสามารถตอดหางปลาตัวใหญ่บางตัวได้\\n    เมื่อเห็นป้ายเตือนอันตราย เตรียมตัวงับเป็นของว่างได้เลย!\\n"
+  },
+  "config/stages/barracudabuffet/startscreen.xml": {
+    "Bonus Stage!": "ด่านโบนัส!",
+    "Remember all the trouble those barracuda gave you back\\n\r\n\t\t\t\t\t\t\t\t\tin the reef? Well, it's payback time. A school of barracuda\\n\r\n\t\t\t\t\t\t\t\t\tsounds like a Bonus Stage snack, doesn't it?\\n": "จำความลำบากที่พวกปลาสากก่อไว้ในแนวปะการังได้ไหม?\\nถึงเวลาเอาคืนแล้ว ฝูงปลาสากพวกนี้ฟังดูเหมือน\\nของว่างชั้นดีในด่านโบนัสเลยว่าไหม?\\n",
+    "Hint:\\n\r\n\t\t\t\t\t\t\t\t\t    Grab a Feeding Fury bubble to chow down and save some\\n\r\n\t\t\t\t\t\t\t\t\t    precious time! You get bonus points for any time left over\\n\r\n\t\t\t\t\t\t\t\t\t    at the end of a bonus stage.\\n": "คำแนะนำ:\\n    เก็บฟองฟีดดิงฟิวรีเพื่อเขมือบเหยื่อและประหยัดเวลาอันมีค่า!\\n    คุณจะได้รับคะแนนโบนัสตามเวลาที่เหลืออยู่\\n    เมื่อจบด่านโบนัส\\n"
+  },
+  "config/stages/boom/startscreen.xml": {
+    "XXX": "XXX",
+    "Those pesky humans are dropping stuff on us!": "พวกมนุษย์ตัวแสบทิ้งของลงมาใส่พวกเรา!",
+    "Watch out! These waters are filling up with deadly mines.\\n\r\n\t\t\t\t\t\t\t\t\tThey will explode if you swim too close!\\n": "ระวัง! ผืนน้ำแห่งนี้เต็มไปด้วยทุ่นระเบิดสุดอันตราย\\nพวกมันจะระเบิดหากคุณว่ายเข้าไปใกล้เกินไป!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    If you're careful, you can hide behind a mine\\n\r\n\t\t\t\t\t\t\t\t\t    to protect yourself from a predator that's chasing you.": "คำแนะนำ:\\n    หากคุณระวังตัวให้ดี คุณสามารถหลบหลังทุ่นระเบิด\\n    เพื่อป้องกันตัวเองจากผู้ล่าที่กำลังไล่กวดคุณได้",
+    "Boom!": "ตูม!"
+  },
+  "config/stages/bubblebubble/startscreen.xml": {
+    "XXX": "XXX",
+    "A starfish a day keeps low scores away!": "เก็บปลาดาววันละนิด ช่วยพิชิตคะแนนสูง!",
+    "Rumor has it that some tough customers live on this side of\\n\r\n\t\t\t\t\t\t\t\t\tthe reef. Watch out for the Lion Fish who can chase you down!\\n": "มีข่าวลือว่ามีขาโหดอาศัยอยู่แถบนี้ของแนวปะการัง\\nระวังปลาสิงโตที่สามารถว่ายไล่กวดคุณให้ดี!\\n",
+    "STARFISH BUBBLES:\\n\r\n\t\t\t\t\t\t\t\t\t    Starfish bubbles don't help you grow, but they're\\n\r\n\t\t\t\t\t\t\t\t\t    worth a lot of points. Plus, they won't bite back!\\n": "ฟองปลาดาว:\\n    ฟองปลาดาวไม่ได้ช่วยให้คุณตัวโตขึ้น แต่มีค่าคะแนนสูงมาก\\n    แถมพวกมันยังไม่แว้งกัดคุณอีกด้วย!\\n"
+  },
+  "config/stages/crazyjellies/startscreen.xml": {
+    "XXX": "XXX",
+    "A la peanut butter and jellyfish sandwich!": "แซนด์วิชเนยถั่วกับแมงกะพรุนชวนหม่ำ!",
+    "You've stumbled across a group of roaming jellyfish.\\n\r\n\t\t\t\t\t\t\t\t\tThey're pretty to look at, but beware their sting!\\n\r\n\t\t\t\t\t\t\t\t\tTouch them and you'll be stunned for a few seconds.\\n": "คุณบังเอิญเจอกับฝูงแมงกะพรุนที่ลอยไปมา\\nพวกมันดูสวยงามน่ามอง แต่จงระวังพิษของมันไว้!\\nหากสัมผัสโดน คุณจะติดสตันนิ่งไปสองสามวินาที\\n",
+    "\\nGOLDEN MINNOWS:\\n\r\n\t\t\t\t\t\t\t\t\t    If you spot a mysterious golden fish, try to catch it!\\n\r\n\t\t\t\t\t\t\t\t\t    They're fast, but they'll help you grow much quicker!\\n": "\\nปลาซิวทองคำ:\\n    หากคุณพบปลาสีทองลึกลับ พยายามจับมันให้ได้!\\n    พวกมันว่ายเร็วมาก แต่จะช่วยให้คุณโตเร็วขึ้นอย่างยิ่ง!\\n",
+    "When you're stunned, you become a sitting duck, so watch out!": "เมื่อคุณติดสตัน คุณจะกลายเป็นเป้านิ่งทันที ระวังตัวด้วย!"
+  },
+  "config/stages/donteatthegreenfish/startscreen.xml": {
+    "Kids - never feed your fish uranium!": "เด็ก ๆ - อย่าให้อาหารปลาด้วยยูเรเนียมเด็ดขาด!",
+    "Some of these poor minnows have eaten hazardous waste,\\n\r\n\t\t\t\t\t\t\t\t\tturning them into poisonous mutants! They may look\\n\r\n\t\t\t\t\t\t\t\t\ttasty, but don't eat the green fish!\\n": "ปลาซิวผู้น่าสงสารบางตัวกินกากของเสียอันตรายเข้าไป\\nจนกลายพันธุ์เป็นปลามีพิษ! พวกมันอาจจะดูน่าอร่อย\\nแต่อย่ากินปลาสีเขียวเด็ดขาด!\\n",
+    "WATCH OUT FOR MUTANT FISH!\\n\r\n\t\t\t\t\t\t\t\t\t    Avoid the bright green fish. If you eat one\\n\r\n\t\t\t\t\t\t\t\t\t    you'll become disoriented! To recover, rapidly\\n\r\n\t\t\t\t\t\t\t\t\t    tap the left mouse button until you return to normal.\\n": "ระวังปลากลายพันธุ์!\\n    หลีกเลี่ยงปลาสีเขียวสว่าง หากคุณเผลอกินเข้าไป\\n    คุณจะเกิดอาการมึนงงสับสน! วิธีฟื้นตัว ให้คลิกปุ่มเมาส์ซ้าย\\n    รัว ๆ จนกว่าจะกลับสู่สภาวะปกติ\\n"
+  },
+  "config/stages/duckandcover/startscreen.xml": {
+    "Do you know what to do when danger threatens?": "คุณรู้หรือไม่ว่าต้องทำอย่างไรเมื่อภัยอันตรายคืบคลานเข้ามา?",
+    "These are dangerous waters. Watch out for mines coming\\n\r\n\t\t\t\t\t\t\t\t\tfrom above, and jellyfish coming from below!\\n": "ผืนน้ำแห่งนี้เต็มไปด้วยอันตราย ระวังทุ่นระเบิดที่ลอยลงมาจากด้านบน\\nและแมงกะพรุนที่ลอยขึ้นมาจากด้านล่าง!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Did you know that you can move mines with your suck\\n\r\n\t\t\t\t\t\t\t\t\t    ability? With a little practice, you can move them out of\\n\r\n\t\t\t\t\t\t\t\t\t    your way, or even suck them right into other fish!\\n": "คำแนะนำ:\\n    รู้หรือไม่ว่าคุณสามารถขยับทุ่นระเบิดได้ด้วยพลังดูดกลืน?\\n    ฝึกฝนอีกนิด คุณจะดูดพวกมันให้พ้นทาง\\n    หรือดูดใส่ปลาตัวอื่นได้เลย!\\n"
+  },
+  "config/stages/eatingonrun/startscreen.xml": {
+    "Just bouncing around...": "เด้งดึ๋งไปมาเรื่อยเปื่อย...",
+    "Another bonus stage! Can you eat 25 puffer fish before\\n\r\n\t\t\t\t\t\t\t\t\ttime runs out? Even with the Flash Bomb bubble it's going\\n\r\n\t\t\t\t\t\t\t\t\tto be a bit tricky.\\n": "ด่านโบนัสอีกแล้ว! คุณจะกินปลาปักเป้า 25 ตัวก่อนเวลาหมด\\nได้หรือไม่? แม้จะมีฟองแฟลชบอมบ์ช่วย\\nแต่มันก็ยังท้าทายอยู่ดีนะ\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    It's much easier to eat puffer fish while they're\\n\r\n\t\t\t\t\t\t\t\t\t    stunned. Take advantage of the Flash Bomb bubbles\\n\r\n\t\t\t\t\t\t\t\t\t    whenever you can.": "คำแนะนำ:\\n    การกินปลาปักเป้าตอนที่พวกมันติดสตันนั้นง่ายกว่ามาก\\n    ใช้ประโยชน์จากฟองแฟลชบอมบ์\\n    ทุกครั้งที่คุณมีโอกาส"
+  },
+  "config/stages/edtest/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "It's crazy out there!": "ข้างนอกนั่นช่างบ้าคลั่งจริง ๆ!",
+    "This demo level includes the most recent power-up\\n\r\n\t\t\t\t\t\t\t\t\tadditions to the game.  These include 'Stun', 'Shield'\\n\r\n\t\t\t\t\t\t\t\t\tand 'Feeding Fury'.\r\n\t\t\t\t\t\t\t\t\t": "ด่านทดสอบนี้รวมไอเทมพาวเวอร์อัปใหม่ล่าสุด\\nที่เพิ่มเข้ามาในเกม ได้แก่ 'สตัน', 'โล่ป้องกัน'\\nและ 'ฟีดดิงฟิวรี'",
+    "Since these power-ups appear later in the game, we\\n\r\n\t\t\t\t\t\t\t\t\tdecided to stick a little demo level in the front of\\n\r\n\t\t\t\t\t\t\t\t\tthis build of the game.": "เนื่องจากพาวเวอร์อัปเหล่านี้จะปรากฏในภายหลังของเกม เราจึง\\nตัดสินใจใส่ด่านทดสอบสั้น ๆ ไว้ที่ส่วนหน้า\\nของเกมเวอร์ชันนี้"
+  },
+  "config/stages/feedingfrenzy/startscreen.xml": {
+    "Stage 2: Feeding Frenzy!\\n": "ด่าน 2: ฟีดดิงเฟรนซี!\\n",
+    "Bonus Stage!": "ด่านโบนัส!",
+    "You've come across a school of minnows, and there are no\\n\r\n\t\t\t\t\t\t\t\t\tpredators in sight. Can you eat all the fish before the timer\\n\r\n\t\t\t\t\t\t\t\t\truns out?": "คุณพบฝูงปลาซิวและไม่มีผู้ล่าอยู่ในสายตาเลยสักตัว\\nคุณจะกินปลาทั้งหมดก่อนเวลาจะหมดลง\\nได้หรือไม่?",
+    "THE FRENZY METER:\\n\r\n\t\t\t\t\t\t\t\t\t    Fill up your FRENZY METER by eating fish quickly. When\\n\r\n\t\t\t\t\t\t\t\t\t    your Frenzy meter is full, you earn double the points for\\n\r\n\t\t\t\t\t\t\t\t\t    everything you eat! To keep it full, keep eating!\\n": "แถบเฟรนซี:\\n    สะสมแถบเฟรนซีให้เต็มด้วยการกินปลาอย่างรวดเร็ว เมื่อแถบเฟรนซี\\n    ของคุณเต็ม คุณจะได้รับคะแนนเป็นสองเท่าจากทุกสิ่งที่คุณกิน!\\n    หากต้องการให้แถบเต็มอยู่ตลอด ก็จงกินต่อไปเรื่อย ๆ!\\n"
+  },
+  "config/stages/fishinbarrel/startscreen.xml": {
+    "XXX": "XXX",
+    "How many can you get?": "คุณจะจับได้สักกี่ตัวกันเชียว?",
+    "Another bonus stage! These Angel Fish are moving really\\n\r\n\t\t\t\t\t\t\t\t\tfast! Can you eat them all before time runs out? Use the\\n\r\n\t\t\t\t\t\t\t\t\tSpeed Boost bubbles to help you!\\n": "ด่านโบนัสอีกแล้ว! ปลาเทวดาพวกนี้ว่ายน้ำเร็วมาก!\\nคุณจะกินพวกมันให้หมดก่อนเวลาหมดลงได้ไหม?\\nใช้ฟองเพิ่มความเร็วเข้าช่วยสิ!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t    Use the Speed Boost bubble plus the Fish Dash ability\\n\r\n\t\t\t\t\t\t\t\t    (left mouse button) to chase down quick moving fish.": "คำแนะนำ:\\n    ใช้ฟองเพิ่มความเร็วร่วมกับท่าพุ่งทะยาน\\n    (คลิกปุ่มเมาส์ซ้าย) เพื่อไล่กวดปลาที่ว่ายน้ำอย่างรวดเร็ว"
+  },
+  "config/stages/fishsoup/startscreen.xml": {
+    "XXX": "XXX",
+    "Nothing like a nice bouillabaisse...": "ไม่มีอะไรจะดีไปกว่าซุปปลาบุยยาเบสรสเลิศ...",
+    "It's like an all-you-can-eat Minnow buffet here! Too bad\\n\r\n\t\t\t\t\t\t\t\t\tthe other nearby predators have the same idea.\\n": "ที่นี่เหมือนบุฟเฟต์ปลาซิวแบบไม่อั้นเลย! เสียอย่างเดียว\\nที่เหล่านักล่าตัวอื่นแถวนี้ก็คิดแบบเดียวกันเป๊ะ\\n",
+    "NEW POWER-UP!\\n\r\n\t\t\t\t\t\t\t\t\t    Eat a Flash Bomb bubble to stun all the other fish\\n\r\n\t\t\t\t\t\t\t\t\t    on the screen for a few seconds!\\n\\n\r\n\t\t\t\t\t\t\t\t\t    Hint: Don't forget to use the right mouse button to suck!": "พาวเวอร์อัปใหม่!\\n    กินฟองแฟลชบอมบ์เพื่อสตันปลาตัวอื่นทั้งหมด\\n    บนหน้าจอเป็นเวลาสองสามวินาที!\\n\\n    คำแนะนำ: อย่าลืมคลิกปุ่มเมาส์ขวาเพื่อดูดกลืน!"
+  },
+  "config/stages/gasbag/startscreen.xml": {
+    "XXX": "XXX",
+    "Beware the prickly Puffer Fish!": "ระวังปลาปักเป้าหนามแหลม!",
+    "This rocky reef is inhabited by prickly Puffer Fish.\\n\r\n\t\t\t\t\t\t\t\t\tThese innocent looking fish can inflate like balloons to\\n\r\n\t\t\t\t\t\t\t\t\tprotect themselves.": "แนวโขดหินนี้เป็นถิ่นอาศัยของปลาปักเป้าหนามแหลม\\nปลาที่ดูไร้เดียงสาพวกนี้สามารถพองตัวเหมือนลูกโป่ง\\nเพื่อป้องกันตัวเองได้",
+    "PUFFER FISH:\\n\r\n\t\t\t\t\t\t\t\t\t    Don't try to eat an inflated Puffer Fish, no\\n\r\n\t\t\t\t\t\t\t\t\t    matter how big you are. If you do, you'll\\n\r\n\t\t\t\t\t\t\t\t\t    bounce and lose some points. Try to be patient!": "ปลาปักเป้า:\\n    อย่าพยายามกินปลาปักเป้าที่กำลังพองตัวเด็ดขาด\\n    ไม่ว่าคุณจะตัวใหญ่แค่ไหน หากฝืนกิน คุณจะเด้งออก\\n    และเสียคะแนน จงใช้ความอดทนเข้าไว้!"
+  },
+  "config/stages/hearmeroar/startscreen.xml": {
+    "Leon": "ลีออน",
+    "Congratulations! Fish Upgrade!": "ยินดีด้วย! อัปเกรดปลาตัวใหม่!",
+    "Meet Leon the Lion Fish. Leon is a little faster\\n\r\n\t\t\t\t\t\t\t\t\tthan Andy, which makes him a tougher customer\\n\r\n\t\t\t\t\t\t\t\t\tin these deeper waters.": "พบกับลีออน ปลาสิงโต! ลีออนว่ายน้ำเร็วกว่า\\nแอนดี้เล็กน้อย ซึ่งทำให้เขาเป็นคู่ต่อสู้ที่รับมือยากขึ้น\\nในเขตน่านน้ำลึกแห่งนี้",
+    "NEW ABILITY!\\n\r\n\t\t\t\t\t\t\t\t\t    Now you can suck in other fish! Hold down the\\n\r\n\t\t\t\t\t\t\t\t\t    RIGHT M0USE BUTTON to suck in all the fish in front of\\n\r\n\t\t\t\t\t\t\t\t\t    you. It takes a few seconds to recharge, so use it wisely.\\n": "ความสามารถใหม่!\\n    ตอนนี้คุณสามารถดูดกลืนปลาตัวอื่นได้แล้ว! กดปุ่มเมาส์ขวาค้างไว้\\n    เพื่อดูดปลาทั้งหมดที่อยู่ตรงหน้าคุณเข้ามา\\n    พลังนี้ต้องใช้เวลาชาร์จสองสามวินาที ดังนั้นจงใช้ให้ฉลาด!\\n"
+  },
+  "config/stages/hiddentreasure/startscreen.xml": {
+    "XXX": "XXX",
+    "Clam up!": "ระวังหอยงับ!",
+    "There are oysters here on the ocean floor that are busy\\n\r\n\t\t\t\t\t\t\t\t\tmaking pearls. Swoop in and eat the pearls for extra points!\\n\r\n\t\t\t\t\t\t\t\t\tIf you're lucky you may find other treasures inside!\\n\r\n\t\t\t\t\t\t\t\t\tBe careful!  They can snap shut and eat you for lunch!": "มีหอยนางรมบนพื้นมหาสมุทรที่กำลังสร้างไข่มุกอยู่\\nโฉบเข้าไปกินไข่มุกเพื่อรับคะแนนพิเศษสิ!\\nหากโชคดี คุณอาจพบสมบัติอื่น ๆ อยู่ข้างในด้วย!\\nระวังให้ดี! พวกมันอาจงับฝาปิดแล้วจับคุณกินเป็นมื้อเที่ยง!",
+    "\\nFISH DASH ATTACK:\\n\r\n\t\t\t\t\t\t\t\t\t    For a quick burst of speed, click your left\\n\r\n\t\t\t\t\t\t\t\t\t    mouse button.\\n": "\\nท่าพุ่งทะยาน:\\n    หากต้องการเร่งความเร็วในพริบตา ให้คลิกปุ่มเมาส์ซ้าย\\n    ของคุณ\\n"
+  },
+  "config/stages/jamestest/startscreen.xml": {
+    "Who's Obtuse?": "ใครว่าทึ่มกัน?",
+    "The ocean seems to be getting more crowded these days.\\n\r\n\t\t\t\t\t\t\t\tA good reef is becoming harder to find.\\n\r\n\t\t\t\t\t\t\t\t": "ช่วงนี้มหาสมุทรดูจะแออัดขึ้นเรื่อย ๆ\\nแนวปะการังดี ๆ เริ่มหายากขึ้นทุกที\\n",
+    "\\nJellyfish are your friends?\\n\r\n\t\t\t\t\t\t\t\t      Jellyfish can pack a mean sting, but they can\\n\r\n\t\t\t\t\t\t\t\t      sometimes be useful too. If a jellyfish stuns another\\n\r\n\t\t\t\t\t\t\t\t      fish, that fish not only can't move but it can't\r\n\t\t\t\t\t\t\t\t      bite either!\\n\r\n\t\t\t\t\t\t\t\t\t": "\\nแมงกะพรุนคือเพื่อนของคุณ?\\n      แมงกะพรุนอาจมีพิษต่อยที่ร้ายกาจ แต่บางครั้ง\\n      พวกมันก็มีประโยชน์เหมือนกันนะ หากแมงกะพรุนสตันปลาตัวอื่น\\n      ปลาตัวนั้นจะไม่เพียงแต่ขยับไม่ได้ แต่ยังกัดไม่ได้ด้วย!\\n"
+  },
+  "config/stages/jellyjam/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "Bonus Stage!": "ด่านโบนัส!",
+    "Time for another bonus stage! There are a whole lot of\\n\r\n\t\t\t\t\t\t\t\t\tStarfish Bubbles hidden in this giant group of jellies. How\\n\r\n\t\t\t\t\t\t\t\t\tmany can you eat before the timer runs out?": "ได้เวลาของด่านโบนัสอีกด่านแล้ว! มีฟองปลาดาวซ่อนอยู่\\nในดงแมงกะพรุนยักษ์นี้เพียบเลย คุณจะกินได้\\nมากเท่าไรก่อนที่เวลาจะหมดลง?",
+    "BONUS BUBBLES:\\n\r\n\t\t\t\t\t\t\t\t\t    Eat the Score Multiplier bubbles to double the\\n\r\n\t\t\t\t\t\t\t\t\t    points for everything you eat! Also, keep an eye\\n\r\n\t\t\t\t\t\t\t\t\t    open for the Extra-Life bubble!": "ฟองโบนัส:\\n    กินฟองทวีคูณคะแนนเพื่อเพิ่มคะแนนเป็นสองเท่า\\n    สำหรับทุกสิ่งที่คุณกิน! และคอยมองหา\\n    ฟองเพิ่มชีวิตไว้ด้วยล่ะ!"
+  },
+  "config/stages/killerinstinct/startscreen.xml": {
+    "Orville": "ออร์วิลล์",
+    "Congratulations! Fish Upgrade!": "ยินดีด้วย! อัปเกรดปลาตัวใหม่!",
+    "Meet Orville the Orca! You've left the reef at\\n\r\n\t\t\t\t\t\t\t\t\tlast and reached the vast, open water. It's beautiful\\n\r\n\t\t\t\t\t\t\t\t\tout here, but deadly too. This is the home of the\\n\r\n\t\t\t\t\t\t\t\t\tgreat white shark!": "พบกับออร์วิลล์ วาฬเพชฌฆาต! ในที่สุดคุณก็ออกจาก\\nแนวปะการังมาสู่ผืนน้ำอันกว้างใหญ่ ที่นี่สวยงาม\\nแต่ก็เต็มไปด้วยอันตรายถึงชีวิต เพราะนี่คือถิ่นอาศัยของ\\nฉลามขาวผู้ยิ่งใหญ่!",
+    "\\nYou have more room to move out in the open\\n\r\n\t\t\t\t\t\t\t\t\twaters. If things get a little too crowded near you, try to\\n\r\n\t\t\t\t\t\t\t\t\tfind a safer spot to feed.": "\\nคุณมีพื้นที่ให้เคลื่อนไหวมากขึ้นในผืนน้ำเปิด\\nหากบริเวณใกล้เคียงเริ่มแออัดเกินไป ให้ลองหา\\nจุดที่ปลอดภัยกว่าเพื่อหาอาหาร"
+  },
+  "config/stages/lovecanal/startscreen.xml": {
+    "Polluted Waters": "น่านน้ำมลพิษ",
+    "A toxic spill here has turned many of the local fish into\\n\r\n\t\t\t\t\t\t\t\t\tpoisonous mutants. Be careful, or you might just end up\\n\r\n\t\t\t\t\t\t\t\t\tthat way too!": "สารพิษที่รั่วไหลที่นี่ได้เปลี่ยนปลาแถวนี้หลายตัว\\nให้กลายเป็นสัตว์กลายพันธุ์มีพิษ จงระวังให้ดี ไม่งั้นคุณเอง\\nก็อาจจะลงเอยแบบนั้นด้วยเหมือนกัน!",
+    "Jellyfish are friends?\\n\r\n\t\t\t\t\t\t\t\t  Jellyfish pack a mean sting, but they can be useful. Hide\\n\r\n\t\t\t\t\t\t\t\t  behind them and use them to shield you from predators.\\n\r\n\t\t\t\t\t\t\t\t  Their sting affects even the biggest fish!\\n": "แมงกะพรุนคือเพื่อนหรือ?\\n  แมงกะพรุนมีพิษต่อยที่ร้ายกาจ แต่พวกมันก็มีประโยชน์ หลบอยู่\\n  ข้างหลังพวกมันเพื่อใช้เป็นโล่กำบังจากเหล่านักล่า\\n  พิษของมันส่งผลต่อแม้กระทั่งปลาที่ตัวใหญ่ที่สุด!\\n"
+  },
+  "config/stages/marlinmadness/startscreen.xml": {
+    "Watch where you point that thing!": "ระวังปลายแหลมนั่นหน่อยสิ!",
+    "The Marlin is a formidable predator, and these\\n\r\n\t\t\t\t\t\t\t\t\twaters are filled with them.\\n": "ปลากระโทงแทงเป็นผู้ล่าที่น่าเกรงขาม และน่านน้ำนี้\\nก็เต็มไปด้วยพวกมัน\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Shaking your tail: Marlins are known to be quite\\n\r\n\t\t\t\t\t\t\t\t\t    tenacious. If one is on your tail, you may need to\\n\r\n\t\t\t\t\t\t\t\t\t    lure him into a nearby mine.\\n": "คำแนะนำ:\\n    สลัดให้หลุด: ปลากระโทงแทงขึ้นชื่อเรื่องความกัดไม่ปล่อย\\n    หากมีตัวหนึ่งตามจี้หางคุณอยู่ คุณอาจต้องล่อมัน\\n    เข้าไปชนกับทุ่นระเบิดแถวนั้น\\n"
+  },
+  "config/stages/meltingpot/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "One big happy eco-system.": "หนึ่งระบบนิเวศแสนสุขสันต์",
+    "You're passing through one of the busiest sections of the\\n\r\n\t\t\t\t\t\t\t\t\treef. There's a lot going on here, so watch where you're going\\n\r\n\t\t\t\t\t\t\t\t\tor you'll end up as fish food.\\n": "คุณกำลังว่ายผ่านจุดที่วุ่นวายที่สุดแห่งหนึ่งของแนวปะการัง\\nที่นี่มีอะไรเกิดขึ้นมากมาย ดังนั้นมองทางให้ดี\\nไม่อย่างนั้นคุณจะกลายเป็นอาหารปลาเสียเอง\\n",
+    "NEW POWER-UP!\\n\r\n\t\t\t\t\t\t\t\t\t    Pick up a Shield bubble to give yourself a protective\\n\r\n\t\t\t\t\t\t\t\t\t    coating. If you get chomped, you will lose the coating,\\n\r\n\t\t\t\t\t\t\t\t\t    but escape unscathed.\\n": "พาวเวอร์อัปใหม่!\\n    เก็บฟองโล่ป้องกันเพื่อสร้างเกราะคุ้มครองตัวเอง\\n    หากคุณถูกงับ คุณจะเสียเกราะป้องกันไป\\n    แต่จะรอดพ้นมาได้อย่างปลอดภัย\\n",
+    "Stage 8: Barracuda Alert\\n\\n\r\n\t\r\n\t\t\tBarracuda are deadly predators.  Watch out for\\n\r\n\t\t\tthe early warning signs and stay out of their way!\\n\\n": "ด่าน 8: ปลาสากเตือนภัย\\n\\n    ปลาสากคือนักล่าสังหาร ระวังป้ายเตือน\\n    ล่วงหน้าให้ดี และว่ายหลบให้พ้นทางของพวกมัน!\\n\\n",
+    "Hint - Feeling Lucky? Bite the Barracuda's \\n\r\n\t\t\t\ttail to score extra points. But watch out! He\\n\r\n\t\t\t\tmight not appreciate it.": "คำแนะนำ - มั่นใจในโชคไหม? กัดหางปลาสาก\\nเพื่อทำคะแนนพิเศษ แต่ระวังด้วยล่ะ! มัน\\nคงไม่ชอบใจเท่าไรนัก",
+    "Time Limit:": "จำกัดเวลา:",
+    "Continue": "ไปต่อ"
+  },
+  "config/stages/merrygoround/startscreen.xml": {
+    "And the fishes go round, and round, and...": "แล้วเหล่าปลาก็ว่ายวน วนไปเรื่อย ๆ...",
+    "Where did all these mean-looking sharks come from? You\\n\r\n\t\t\t\t\t\t\t\t\tmust be getting close to the King Shark's lair! Keep going!\\n\r\n\t\t\t\t\t\t\t\t\tYou're almost there!": "ฉลามหน้าตาดุร้ายพวกนี้มาจากไหนกันเนี่ย?\\nคุณต้องกำลังเข้าใกล้รังของราชาฉลามแล้วแน่ ๆ! ลุยต่อไป!\\nใกล้ถึงแล้ว!",
+    "\\nHINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Sharks like to dart in quickly for the\\n\r\n\t\t\t\t\t\t\t\t\t    kill. Try hiding behind mines for protection.": "\\nคำแนะนำ:\\n    พวกฉลามชอบพุ่งเข้ามาสังหารอย่างรวดเร็ว\\n    ลองซ่อนตัวอยู่หลังทุ่นระเบิดเพื่อป้องกันตัวเองดูสิ"
+  },
+  "config/stages/midwaycrossing/startscreen.xml": {
+    "Where's everyone going?": "ทุกคนกำลังจะไปไหนกันนะ?",
+    "It's oceanic rush hour! Be sure to\\n\r\n\t\t\t\t\t\t\t\t\tyield the right of way to bigger fish.\\n\r\n\t\t\t\t\t\t\t\t\tThey have important places to go!\\n": "นี่คือชั่วโมงเร่งด่วนใต้สมุทร! อย่าลืม\\nให้ทางแก่ปลาตัวที่ใหญ่กว่าด้วยล่ะ\\nพวกมันมีธุระสำคัญต้องรีบไป!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    When fish are stunned, they can't eat you, no matter\\n\r\n\t\t\t\t\t\t\t\t\t    how big they are! So feel free to get up close and personal - \\n\r\n\t\t\t\t\t\t\t\t\t    until they wake up, of course.": "คำแนะนำ:\\n    เมื่อปลาติดสตัน พวกมันจะกินคุณไม่ได้ ไม่ว่าพวกมัน\\n    จะตัวใหญ่แค่ไหนก็ตาม! ฉะนั้นว่ายเข้าไปประชิดตัวได้ตามสบาย\\n    จนกว่าพวกมันจะฟื้นนั่นแหละนะ"
+  },
+  "config/stages/minefield/startscreen.xml": {
+    "Bonus Stage!": "ด่านโบนัส!",
+    "You're nearing the lair of the ocean's shark king, but\\n\r\n\t\t\t\t\t\t\t\t\tyour path is littered with mines and poisonous mutant\\n\r\n\t\t\t\t\t\t\t\t\tminnows. Scoop up 40 bonus bubbles to get through.\\n": "คุณกำลังเข้าใกล้รังของราชาฉลามแห่งท้องทะเล แต่เส้นทาง\\nกลับเต็มไปด้วยทุ่นระเบิดและปลาซิวกลายพันธุ์มีพิษ\\nเก็บฟองโบนัสให้ครบ 40 ฟองเพื่อผ่านด่าน\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Try using the minnows to clear out the mines.\\n\r\n\t\t\t\t\t\t\t\t\t    And stock up on extra lives for your final showdown!\\n": "คำแนะนำ:\\n    ลองใช้ปลาซิวเพื่อเคลียร์ทุ่นระเบิดให้พ้นทาง\\n    และสะสมชีวิตสำรองไว้สำหรับศึกตัดสินครั้งสุดท้าย!\\n"
+  },
+  "config/stages/moremutantmadness/startscreen.xml": {
+    "The Alliteration Never Ends...": "สัมผัสอักษรไม่มีวันสิ้นสุด...",
+    "There are lots of poisonous mutants here - try not to suck\\n\r\n\t\t\t\t\t\t\t\t\tthem up as you chow down on the schools of fish. Hunting\\n\r\n\t\t\t\t\t\t\t\t\ttuna love to take advantage of disoriented prey.\\n": "มีปลากลายพันธุ์มีพิษอยู่เพียบ พยายามอย่าดูดพวกมันเข้ามา\\nระหว่างที่คุณกำลังเขมือบฝูงปลาล่ะ ฝูงปลาทูน่านักล่า\\nชอบฉวยโอกาสขย้ำเหยื่อที่กำลังมึนงงเป็นที่สุด\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Be sure to keep an eye out for oysters on the ocean floor!\\n": "คำแนะนำ:\\n    อย่าลืมคอยมองหาหอยนางรมบนพื้นมหาสมุทรไว้ด้วยล่ะ!\\n"
+  },
+  "config/stages/needforspeed/startscreen.xml": {
+    "XXX": "XXX",
+    "Sometimes you need a little boost!": "บางครั้งคุณก็ต้องการแรงขับดันสักนิด!",
+    "The quick moving schools of Angel Fish are hard to\\n\r\n\t\t\t\t\t\t\t\t\tcatch. Use the Speed Boost bubbles to catch them before\\n\r\n\t\t\t\t\t\t\t\t\tthey can get away.": "ฝูงปลาเทวดาที่ว่ายน้ำเร็วรี่นั้นยากที่จะจับ\\nใช้ฟองเพิ่มความเร็วเพื่อจับพวกมัน\\nก่อนที่พวกมันจะหนีไป",
+    "NEW POWER-UP!\\n\r\n\t\t\t\t\t\t\t\t\t    Chow down a Speed Boost bubble for some serious\\n\r\n\t\t\t\t\t\t\t\t\t    speed. The boost indicator at the top right will flash\\n\r\n\t\t\t\t\t\t\t\t\t    as the effect starts to wear off.": "พาวเวอร์อัปใหม่!\\n    เขมือบฟองเพิ่มความเร็วเพื่อเร่งความเร็วขั้นสุด\\n    สัญลักษณ์บูสต์ที่มุมขวาบนจะกะพริบ\\n    เมื่อผลของพาวเวอร์อัปใกล้จะหมดลง"
+  },
+  "config/stages/playingchicken/completescreen.xml": {
+    "STAGE COMPLETE": "ผ่านด่านแล้ว",
+    "Terrific job!\\nThose were some tasty treats!\\n": "ยอดเยี่ยมมาก!\\nช่างเป็นของว่างที่แสนอร่อยจริง ๆ!\\n",
+    "Time Bonus": "โบนัสเวลา",
+    "Time Remaining:": "เวลาที่เหลือ:",
+    "Time Bonus:": "โบนัสเวลา:",
+    "End of Alpha - come back for more fish\\nmore environments and more fun!": "สิ้นสุดเวอร์ชันอัลฟา - กลับมาพบกับปลาสายพันธุ์ใหม่ ๆ\\nสภาพแวดล้อมใหม่ ๆ และความสนุกอีกเพียบ!",
+    "Continue": "ไปต่อ"
+  },
+  "config/stages/playingchicken/startscreen.xml": {
+    "XXXX\\n": "XXXX\\n",
+    "Bonus Stage!": "ด่านโบนัส!",
+    "This area is filled with good stuff to eat, but it's also crawling\\n\r\n\t\t\t\t\t\t\t\t\twith poisonous mutants and deadly barracuda!": "บริเวณนี้เต็มไปด้วยของน่าอร่อยมากมาย แต่มันก็ชุกชุม\\nไปด้วยปลากลายพันธุ์มีพิษและปลาสากสังหารด้วยเช่นกัน!"
+  },
+  "config/stages/rushhour/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "Torpedoes with Teeth": "ตอร์ปิโดติดเขี้ยว",
+    "Rumor has it a deadly barracuda has been terrorizing this\\n\r\n\t\t\t\t\t\t\t\t\tpart of the ocean! Watch for the early warning signs, and\\n\r\n\t\t\t\t\t\t\t\t\tget out of the way!\\n": "มีข่าวลือว่ามีปลาสากสังหารกำลังสร้างความหวาดกลัว\\nในน่านน้ำแถบนี้! ระวังป้ายเตือนล่วงหน้าให้ดี และว่ายหลบ\\nให้พ้นทางของมัน!\\n",
+    "\\nFeeling Lucky?\\n\r\n\t\t\t\t\t\t\t\t\t    Bite the barracuda's tail to score some extra points -\\n\r\n\t\t\t\t\t\t\t\t\t    but be careful, he just might bite back!\\n": "\\nมั่นใจในโชคไหม?\\n    กัดหางปลาสากเพื่อทำคะแนนพิเศษ -\\n    แต่ระวังด้วยล่ะ มันอาจจะแว้งกลับมากัดคุณได้!\\n"
+  },
+  "config/stages/schoolsout/startscreen.xml": {
+    "School's Out!": "โรงเรียนเลิกแล้ว!",
+    "Time for a culinary field trip!": "ได้เวลาทัศนศึกษาหาของอร่อย!",
+    "Fish swim in schools for defense. Eat an entire school\\n\r\n\t\t\t\t\t\t\t\t\tto earn a special 'School' bonus that's worth a\\n\r\n\t\t\t\t\t\t\t\t\twhopping 500 points!": "ปลาว่ายน้ำรวมกันเป็นฝูงเพื่อป้องกันตัว กินให้เกลี้ยงทั้งฝูง\\nเพื่อรับโบนัส 'ฝูงปลา' พิเศษซึ่งมีค่าคะแนน\\nมากถึง 500 คะแนน!",
+    "\\nHINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Remember to use your Fish Dash ability by clicking\\n\r\n\t\t\t\t\t\t\t\t\t    the left mouse button! It's a great way to catch quick\\n\r\n\t\t\t\t\t\t\t\t\t    moving schools of fish.\\n": "\\nคำแนะนำ:\\n    อย่าลืมใช้ท่าพุ่งทะยานด้วยการคลิก\\n    ปุ่มเมาส์ซ้าย! นี่เป็นวิธีชั้นยอดในการไล่จับ\\n    ฝูงปลาที่ว่ายน้ำอย่างรวดเร็ว\\n"
+  },
+  "config/stages/sharkking/startscreen.xml": {
+    "The Final Showdown!": "ศึกตัดสินครั้งสุดท้าย!",
+    "You've reached the den of the deadly Shark King! Can\\n\r\n\t\t\t\t\t\t\t\t\tyou defeat him and take his place at the very top of the\\n\r\n\t\t\t\t\t\t\t\t\tfood chain? Be careful, because food is scarce in here.\\n\r\n\t\t\t\t\t\t\t\t\tThe King doesn't leave much uneaten.": "คุณมาถึงรังของราชาฉลามสุดอันตรายแล้ว! คุณจะโค่นเขา\\nและขึ้นครองตำแหน่งบนจุดสูงสุดของห่วงโซ่อาหาร\\nได้หรือไม่? ระวังตัวด้วย เพราะอาหารที่นี่หายากมาก\\nราชาองค์นี้ไม่เคยเหลืออะไรไว้ให้ใคร",
+    "\\nHINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Use Shield bubbles and Jellyfish to protect against the\\n\r\n\t\t\t\t\t\t\t\t\t    Shark King's charges. This is it... Good Luck!": "\\nคำแนะนำ:\\n    ใช้ฟองโล่ป้องกันและแมงกะพรุนเพื่อป้องกันการพุ่งชน\\n    ของราชาฉลาม ถึงเวลาแล้ว... ขอให้โชคดี!"
+  },
+  "config/stages/sharkreef/startscreen.xml": {
+    "No place for a casual swim...": "ไม่ใช่ที่สำหรับการว่ายน้ำเล่นกินลม...",
+    "Shark Reef is home to the nastiest, toughest sharks in\\n\r\n\t\t\t\t\t\t\t\t\tthe ocean. Can you help them clean up their act?\\n": "แนวหินฉลามเป็นบ้านของเหล่าฉลามที่ดุร้ายและแข็งแกร่งที่สุด\\nในมหาสมุทร คุณจะช่วยสั่งสอนให้พวกมันหลาบจำได้ไหม?\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    In dangerous waters, it's sometimes better to let the\\n\r\n\t\t\t\t\t\t\t\t\t    smaller fish come to you. It takes patience, but you don't\\n\r\n\t\t\t\t\t\t\t\t\t    want to take too many chances out here!\\n": "คำแนะนำ:\\n    ในน่านน้ำอันตราย บางครั้งการปล่อยให้ปลาตัวเล็กว่ายเข้ามาหาเอง\\n    จะดีกว่า มันต้องใช้ความอดทน แต่คุณคงไม่อยากเสี่ยงอันตราย\\n    เกินความจำเป็นในที่แบบนี้หรอกนะ!\\n"
+  },
+  "config/stages/shellgame/startscreen.xml": {
+    "XXX": "XXX",
+    "Bonus Stage!": "ด่านโบนัส!",
+    "Each oyster has exactly one pearl. Can you collect them\\n\r\n\t\t\t\t\t\t\t\t\tall (without getting chomped) before time runs out?\\n": "หอยนางรมแต่ละตัวมีไข่มุกอยู่หนึ่งเม็ดพอดี คุณจะเก็บพวกมัน\\nได้ทั้งหมด (โดยไม่โดนงับ) ก่อนเวลาจะหมดลงได้ไหม?\\n",
+    "Don't Forget Speed Boost:\\n\r\n\t\t\t\t\t\t\t\t\t    This is a perfect place to use your speed boost.\\n\r\n\t\t\t\t\t\t\t\t\t    Get in, get out, nobody gets hurt!\\n": "อย่าลืมเพิ่มความเร็ว:\\n    นี่คือที่ที่เหมาะเจาะที่สุดในการใช้บูสต์เพิ่มความเร็วของคุณ\\n    โฉบเข้าไป ชิ่งออกมา ไม่มีใครเจ็บตัว!\\n"
+  },
+  "config/stages/sixdegrees/startscreen.xml": {
+    "Who's Obtuse?": "ใครว่าทึ่มกัน?",
+    "The ocean seems to be getting more crowded these days\\n\r\n\t\t\t\t\t\t\t\t\tand these mines don't help one bit! Be careful out there!\\n": "ช่วงนี้มหาสมุทรดูจะแออัดขึ้นเรื่อย ๆ\\nและทุ่นระเบิดพวกนี้ก็ไม่ได้ช่วยให้อะไรดีขึ้นเลย! ระวังตัวด้วยล่ะ!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    The suck ability is especially helpful for Eddie because\\n\r\n\t\t\t\t\t\t\t\t\t    he's slow. Park yourself near a tasty school of fish then\\n\r\n\t\t\t\t\t\t\t\t\t    take a deep breath!": "คำแนะนำ:\\n    พลังดูดมีประโยชน์อย่างยิ่งสำหรับเอ็ดดี้เพราะเขาว่ายช้า\\n    ลองจอดนิ่ง ๆ แถวฝูงปลาแสนอร่อย แล้วสูดลมหายใจ\\n    เข้าลึก ๆ ดูสิ!"
+  },
+  "config/stages/smallfishsmallpond/startscreen.xml": {
+    "Stage 1: Small Fish, Small Pond\\n": "ด่าน 1: ปลาเล็กในหนองน้ำน้อย\\n",
+    "''Where the fish are small and the minnows are crunchy!''": "''ที่ซึ่งปลาตัวเล็กและปลาซิวเคี้ยวกรุบกรอบ!''",
+    "Meet Andy the Angel Fish. Use your mouse to\\n\r\n\t\t\t\t\t\t\t\t\tcontrol Andy through the dangerous waters ahead.\\n": "พบกับแอนดี้ ปลาเทวดา ใช้เมาส์ของคุณ\\nควบคุมแอนดี้ผ่านผืนน้ำอันตรายเบื้องหน้า\\n",
+    "HOW TO PLAY:\\n\r\n\t\t\t\t\t\t\t\t\t    - Eat fish that are smaller than you\\n\r\n\t\t\t\t\t\t\t\t\t    - Avoid fish that are bigger than you\\n\r\n\t\t\t\t\t\t\t\t\t    - Eat enough fish and you'll grow in size\\n": "วิธีเล่น:\\n    - กินปลาที่ตัวเล็กกว่าคุณ\\n    - หลบปลาที่ตัวใหญ่กว่าคุณ\\n    - กินปลาให้มากพอแล้วขนาดตัวคุณจะโตขึ้น\\n",
+    "Can you grow large enough to advance to the next stage?": "คุณจะเติบโตจนตัวใหญ่พอเพื่อผ่านเข้าสู่ด่านต่อไปได้หรือไม่?",
+    "Can you finish the stage before the timer runs out?": "คุณจะผ่านด่านนี้ก่อนที่เวลาจะหมดลงได้หรือไม่?"
+  },
+  "config/stages/suckersbet/startscreen.xml": {
+    "XXX": "XXX",
+    "Watch the puffer...": "จับตาดูเจ้าปลาปักเป้าไว้...",
+    "Another bonus stage! Each oyster still has exactly one pearl,\\n\r\n\t\t\t\t\t\t\t\t\tbut this time it's a bit trickier. You have to eat all the pearls\\n\r\n\t\t\t\t\t\t\t\t\tAND all the puffer fish before time runs out. Can you do it?\\n": "ด่านโบนัสอีกแล้ว! หอยนางรมแต่ละตัวยังมีไข่มุกหนึ่งเม็ดพอดี\\nแต่คราวนี้ท้าทายกว่าเดิม คุณต้องกินไข่มุกทั้งหมด\\nและกินปลาปักเป้าทั้งหมดก่อนเวลาจะหมดลง คุณจะทำได้ไหม?\\n",
+    "GREAT PROGRESS!\\n\r\n\t\t\t\t\t\t\t\t\t    You've come far since your minnow munching days! You\\n\r\n\t\t\t\t\t\t\t\t\t    just might have what it takes to defeat the SHARK KING!\\n": "ก้าวหน้าไปมาก!\\n    คุณมาไกลมากนับตั้งแต่วันที่คอยแทะเล็มปลาซิว! คุณ\\n    อาจมีดีพอที่จะโค่นราชาฉลามลงได้แล้ว!\\n"
+  },
+  "config/stages/suckitup/startscreen.xml": {
+    "J.D.": "เจดี",
+    "Congratulations! Fish Upgrade!": "ยินดีด้วย! อัปเกรดปลาตัวใหม่!",
+    "Meet J.D. (aka John Dory). J.D. is fast and\\n\r\n\t\t\t\t\t\t\t\t\tpowerful. He should be able to get you as far as\\n\r\n\t\t\t\t\t\t\t\t\tthe open waters out near Shark Reef.\\n": "พบกับเจดี (หรือที่รู้จักกันในชื่อ ปลาจอห์นดอรี) เจดีว่ายเร็ว\\nและทรงพลัง เขาจะสามารถพาคุณไปได้ไกลจนถึง\\nผืนน้ำเปิดใกล้กับแนวหินฉลาม\\n",
+    "The Food Chain:\\n\r\n\t\t\t\t\t\t\t\t\t    You've made it pretty far up the food chain.\\n\r\n\t\t\t\t\t\t\t\t\t    At the top of the food chain sits the Shark King.\\n\r\n\t\t\t\t\t\t\t\t\t    Can you unseat him and claim the throne?\\n": "ห่วงโซ่อาหาร:\\n    คุณไต่เต้าขึ้นมาสูงมากในห่วงโซ่อาหารแล้ว\\n    บนยอดสูงสุดของห่วงโซ่อาหารคือราชาฉลาม\\n    คุณจะสามารถโค่นเขาและชิงบัลลังก์มาได้หรือไม่?\\n"
+  },
+  "config/stages/sucksucksuckboom/startscreen.xml": {
+    "Dazed and Confused": "มึนงงและสับสน",
+    "Sometimes life gets a little bit hectic. That's when smart\\n\r\n\t\t\t\t\t\t\t\t\tfish look for the Flash Bomb bubble. This power-up is a potent\\n\r\n\t\t\t\t\t\t\t\t\tally in these mine-infested waters.\\n": "บางครั้งชีวิตก็วุ่นวายไปสักหน่อย นั่นคือช่วงเวลาที่ปลาฉลาด ๆ\\nจะมองหาฟองแฟลชบอมบ์ พาวเวอร์อัปนี้คือพันธมิตรที่ทรงพลัง\\nในน่านน้ำที่เต็มไปด้วยทุ่นระเบิดแห่งนี้\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Did you know that eating a Flash Bomb bubble will cause\\n\r\n\t\t\t\t\t\t\t\t\t    all the mines on the screen to explode?": "คำแนะนำ:\\n    รู้หรือไม่ว่าการกินฟองแฟลชบอมบ์จะทำให้\\n    ทุ่นระเบิดทั้งหมดบนหน้าจอระเบิดพร้อมกัน?"
+  },
+  "config/stages/trickytreasure/startscreen.xml": {
+    "XXX": "XXX",
+    "Clam up!": "ระวังหอยงับ!",
+    "The oysters in this part of the reef don't stay open very\\n\r\n\t\t\t\t\t\t\t\t\tlong. If you're trying to steal their precious treasure you'll\\n\r\n\t\t\t\t\t\t\t\t\thave to move fast!\\n": "หอยนางรมในส่วนนี้ของแนวปะการังเปิดฝาอยู่ได้ไม่นานนัก\\nหากคุณคิดจะขโมยสมบัติล้ำค่าของพวกมัน\\nคุณจะต้องเคลื่อนไหวให้ไว!\\n",
+    "BLACK PEARLS:\\n\r\n\t\t\t\t\t\t\t\t\t    The mysterious black pearl is 5 times more\\n\r\n\t\t\t\t\t\t\t\t\t    valuable than the ordinary white pearl. That will\\n\r\n\t\t\t\t\t\t\t\t\t    help you grow up pretty quickly!": "ไข่มุกดำ:\\n    ไข่มุกดำลึกลับมีมูลค่ามากกว่าไข่มุกขาวธรรมดา\\n    ถึง 5 เท่า ซึ่งจะช่วยให้คุณ\\n    ตัวโตขึ้นได้อย่างรวดเร็วมาก!"
+  },
+  "config/stages/tunacrossing/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "Is there a doctor in the house?": "มีคุณหมออยู่แถวนี้ไหม?",
+    "You've reached a Surgeon Fish crossing! Swim carefully, until\\n\r\n\t\t\t\t\t\t\t\t\tyou're big enough for a yummy Surgeon Fish feast!\\n": "คุณมาถึงทางข้ามของฝูงปลาศัลยแพทย์แล้ว! จงว่ายอย่างระวัง\\nจนกว่าคุณจะตัวใหญ่พอสำหรับงานเลี้ยงปลาแสนอร่อย!\\n",
+    "Over Charging Surgeons:\\n\r\n\t\t\t\t\t\t\t\t\t    Be especially careful when you're near a predator\\n\r\n\t\t\t\t\t\t\t\t\t    that's feeding on smaller fish. They tend to speed up when\\n\r\n\t\t\t\t\t\t\t\t\t    they're lunging for the kill.": "ปลาศัลยแพทย์พุ่งชาร์จ:\\n    จงระวังเป็นพิเศษเมื่ออยู่ใกล้ผู้ล่าที่กำลังกินปลาตัวเล็กกว่า\\n    พวกมันมักจะเร่งความเร็วเมื่อกำลังพุ่งเข้าสังหารเหยื่อ",
+    "Stage 8: Barracuda Alert\\n\\n\r\n\t\r\n\t\t\tBarracuda are deadly predators.  Watch out for\\n\r\n\t\t\tthe early warning signs and stay out of their way!\\n\\n": "ด่าน 8: ปลาสากเตือนภัย\\n\\n    ปลาสากคือนักล่าสังหาร ระวังป้ายเตือน\\n    ล่วงหน้าให้ดี และว่ายหลบให้พ้นทางของพวกมัน!\\n\\n",
+    "Hint - Feeling Lucky? Bite the Barracuda's \\n\r\n\t\t\t\ttail to score extra points. But watch out! He\\n\r\n\t\t\t\tmight not appreciate it.": "คำแนะนำ - มั่นใจในโชคไหม? กัดหางปลาสาก\\nเพื่อทำคะแนนพิเศษ แต่ระวังด้วยล่ะ! มัน\\nคงไม่ชอบใจเท่าไรนัก",
+    "Time Limit:": "จำกัดเวลา:",
+    "Continue": "ไปต่อ"
+  },
+  "config/stages/tunasashimi/startscreen.xml": {
+    "Pass the wasabi.": "ขอวาซาบิหน่อยสิ",
+    "These deep waters are swarming with sleek fast Tuna,\\n\r\n\t\t\t\t\t\t\t\t\tso watch out. Stay out of their way until you've\\n\r\n\t\t\t\t\t\t\t\t\tgrown large enough, then have a feast!\\n": "น่านน้ำลึกแห่งนี้เต็มไปด้วยฝูงปลาทูน่าที่ว่ายน้ำเร็วรี่\\nจงระวังตัวให้ดี อยู่ให้ห่างจากพวกมันจนกว่าคุณจะเติบโต\\nตัวใหญ่พอ แล้วค่อยจัดงานเลี้ยงมื้อใหญ่!\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    Get'em while they're fresh! Schools of fish are\\n\r\n\t\t\t\t\t\t\t\t\t    easiest to catch when they first appear on the screen.\\n\r\n\t\t\t\t\t\t\t\t\t    Wait too long and they'll scatter.\\n": "คำแนะนำ:\\n    จับกินตอนที่ยังสดใหม่! ฝูงปลาจะจับกินได้ง่ายที่สุด\\n    เมื่อพวกมันเพิ่งปรากฏขึ้นมาบนหน้าจอ\\n    หากรอนานเกินไป พวกมันจะว่ายแตกกระจายหนีไป\\n"
+  },
+  "config/stages/watchwhatyoueat/startscreen.xml": {
+    "XXX\\n": "XXX\\n",
+    "Bonus Stage!": "ด่านโบนัส!",
+    "It's another Feeding Frenzy bonus stage! Lots of fish\\n\r\n\t\t\t\t\t\t\t\t\tto eat, but watch out for the sea mines and the poisonous\\n\r\n\t\t\t\t\t\t\t\t\tmutant minnows.\\n": "ด่านโบนัสฟีดดิงเฟรนซีมาอีกแล้ว! มีปลาให้กินมากมาย\\nแต่จงระวังทุ่นระเบิดใต้น้ำและปลาซิวกลายพันธุ์มีพิษ\\nไว้ให้ดี\\n",
+    "HINT:\\n\r\n\t\t\t\t\t\t\t\t\t    If you get eaten or killed on a bonus stage it doesn't\\n\r\n\t\t\t\t\t\t\t\t\t    cost you a life. So take some chances and try to clear the\\n\r\n\t\t\t\t\t\t\t\t\t    stage before the timer runs out. Good Luck!\\n": "คำแนะนำ:\\n    หากคุณถูกกินหรือตายในด่านโบนัส คุณจะไม่เสียชีวิต\\n    ดังนั้นลองเสี่ยงดูสักตั้งและพยายามเคลียร์ด่าน\\n    ก่อนเวลาจะหมดลง ขอให้โชคดี!\\n"
+  },
+  "config/stages/yospike/startscreen.xml": {
+    "Eddie": "เอ็ดดี้",
+    "Congratulations! Fish Upgrade!": "ยินดีด้วย! อัปเกรดปลาตัวใหม่!",
+    "Meet Eddie the Angler. His small fins make him\\n\r\n\t\t\t\t\t\t\t\t\ta little slower, but he has a big bite! Don't forget\\n\r\n\t\t\t\t\t\t\t\t\tto right-click to suck in schools of fish.\\n": "พบกับเอ็ดดี้ ปลาตกเบ็ด ครีบเล็ก ๆ ของเขาทำให้เขา\\nว่ายช้าลงเล็กน้อย แต่เขากัดได้แรงมาก! อย่าลืมคลิกขวา\\nเพื่อดูดกลืนฝูงปลาเข้ามา\\n",
+    "\\nNEW POWER-UP!\\n\r\n\t\t\t\t\t\t\t\t\t      Pick up the FURY BUBBLE, and go nuts! You'll\\n\r\n\t\t\t\t\t\t\t\t\t      zip around the screen eating everything in sight!\\n": "\\nพาวเวอร์อัปใหม่!\\n      เก็บฟองฟิวรี แล้วออกอาละวาดได้เลย! คุณจะว่ายฉิว\\n      ไปทั่วหน้าจอเพื่อเขมือบทุกสิ่งที่ขวางหน้า!\\n"
+  }
+}

@@ -1,0 +1,8 @@
+*.exe
+*.saf
+*.scr
+*.dll
+*_Backup/
+__pycache__/
+*.pyc
+*.tmp

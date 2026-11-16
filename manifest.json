@@ -1,0 +1,18 @@
+{
+  "name": "Feeding Frenzy Thai Language Mod (LINE Seed Sans TH)",
+  "version": "0.1.0",
+  "credit": "porton007",
+  "font": "LINE Seed Sans TH Game Bold v1.003 (SIL OFL 1.1)",
+  "targets": {
+    "FFArchive.saf": {
+      "orig_sha256": "226df2f4d7bfae7be98d5e339a85996015b5b421589e543b8339862db1b5de81",
+      "mod_sha256": "cf3677335f6748ac0efaab9eef89509ac9cb53bad2dd8547b70eaea14e00c5d9",
+      "delta": "patches/FFArchive.saf.rith.gz"
+    },
+    "resources/splash/gameSplash.jpg": {
+      "orig_sha256": "17288d6ad068c7eb603b7df370de201a94403d860c0aa1df125c9f8b651c4a67",
+      "mod_sha256": "c6c839af40dca1751890c038d01c37088f1d665530bec4ebf05cd2d9ad314508",
+      "file": "patches/gameSplash.jpg"
+    }
+  }
+}

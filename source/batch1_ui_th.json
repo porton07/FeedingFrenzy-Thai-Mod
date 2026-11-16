@@ -1,0 +1,218 @@
+{
+  "config/credits.xml": {
+    "The Team": "ทีมงาน",
+    "Programming:\\n\r\n\t\t\t\t\t\t   Ed Allard\\n\r\n\t\t\t\t\t\t   Joe Mobley\\n\r\n\t\t\t\t\t\t   James Gwertzman\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tArt:\\n\r\n\t\t\t\t\t\t    Kathy Anderson\\n\r\n\t\t\t\t\t\t    Leslie Harrington\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tAnimation:\\n\r\n\t\t\t\t\t\t    Rick McCann": "การเขียนโปรแกรม:\\n\r\n\t\t\t\t\t\t   Ed Allard\\n\r\n\t\t\t\t\t\t   Joe Mobley\\n\r\n\t\t\t\t\t\t   James Gwertzman\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tศิลปกรรม:\\n\r\n\t\t\t\t\t\t    Kathy Anderson\\n\r\n\t\t\t\t\t\t    Leslie Harrington\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tแอนิเมชัน:\\n\r\n\t\t\t\t\t\t    Rick McCann\\n\\nแปลภาษาไทย:\\n    porton007",
+    "Game/Level Design:\\n\r\n\t\t\t\t\t\t   James Gwertzman\\n\r\n\t\t\t\t\t\t   Del Chafe\\n\r\n\t\t\t\t\t\t   Ed Allard\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tSound/Music:\\n\r\n\t\t\t\t\t\t    Guy Whitmore\\n\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tFun Fact Research:\\n\r\n\t\t\t\t\t\t    Maggie Tai Tucker": "ออกแบบเกม/ด่าน:\\n\r\n\t\t\t\t\t\t   James Gwertzman\\n\r\n\t\t\t\t\t\t   Del Chafe\\n\r\n\t\t\t\t\t\t   Ed Allard\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tเสียง/ดนตรีประกอบ:\\n\r\n\t\t\t\t\t\t    Guy Whitmore\\n\\n\\n\r\n\t\t\t\t\t\r\n\t\t\t\t\tค้นคว้าเกร็ดน่ารู้:\\n\r\n\t\t\t\t\t\t    Maggie Tai Tucker",
+    "Done": "ตกลง"
+  },
+  "config/gamehud.xml": {
+    "00                 00": "00                 00",
+    "of": "จาก",
+    "000,000": "000,000",
+    "FRENZY!": "เทพมาก!",
+    "2x": "2x"
+  },
+  "config/gameover.xml": {
+    "GAME OVER": "เกมโอเวอร์",
+    "OK": "ตกลง"
+  },
+  "config/gameovercontinue.xml": {
+    "GAME OVER": "เกมโอเวอร์",
+    "Continues Left: 3": "เล่นต่อได้อีก: 3",
+    "Quit": "ออก",
+    "Continue": "เล่นต่อ"
+  },
+  "config/gamestrings.xml": {
+    "Stage %1!d!: %2!s!": "ด่าน %1!d!: %2!s!",
+    "Next up:\\nStage %1!d!: %2!s!": "ด่านต่อไป:\\nด่าน %1!d!: %2!s!",
+    "Next saver at: %1!d! Food Bank points": "ภาพพักหน้าจอถัดไปที่: %1!d! แต้มธนาคารอาหาร",
+    "Stages %1!d! - %2!d!": "ด่าน %1!d! - %2!d!",
+    "Continues Left: %1!d!": "เล่นต่อได้อีก: %1!d!",
+    "You've earned the rank of: %1!s!%!": "คุณได้รับยศ: %1!s!%!",
+    "+%1!d! SEC": "+%1!d! วินาที",
+    "New Screen Saver: %1!s!": "ภาพพักหน้าจอใหม่: %1!s!",
+    "All savers unlocked!": "ปลดล็อกภาพพักหน้าจอทั้งหมดแล้ว!",
+    "Choose a stage...": "เลือกด่าน...",
+    "Stages Locked": "ด่านถูกล็อก",
+    "Return to Main Menu": "กลับสู่เมนูหลัก",
+    "Loading Screen Saver": "กำลังโหลดภาพพักหน้าจอ",
+    "LOADING": "กำลังโหลด",
+    "Press 'P' to pause": "กด 'P' เพื่อพักเกม",
+    "No Time Bonus": "ไม่มีโบนัสเวลา",
+    "Bonus Stats": "สถิติโบนัส",
+    "Normal Mode": "โหมดปกติ",
+    "Time Attack": "โหมดแข่งเวลา",
+    "TAIL BITE!": "กัดหาง!",
+    "2X BONUS!": "โบนัส 2 เท่า!",
+    "SPEED BONUS": "โบนัสความเร็ว",
+    "EXTRA LIFE!": "เพิ่มชีวิต!",
+    "BLACK PEARL": "ไข่มุกดำ",
+    "GOLDEN MINNOW": "ปลามินโนว์ทอง",
+    "POISONED!": "โดนพิษ!",
+    "SCHOOL BONUS!": "โบนัสฝูงปลา!",
+    "FRENZY!": "เทพมาก!",
+    "STAGE": "ฉาก",
+    "CLEAR!": "ชนะ!",
+    "SORRY!": "พลาด!",
+    "PERFECT": "ยอดมาก!",
+    "TIME UP!": "หมดเวลา!",
+    "Newbie Nibbler": "จอมแทะมือใหม่",
+    "Bottom Feeder": "นักกินก้นทะเล",
+    "Shark-bait": "เหยื่อฉลาม",
+    "Small Fry": "ลูกปลาตัวจ้อย",
+    "Minnow Muncher": "จอมเคี้ยวมินโนว์",
+    "Hungry Hunter": "นักล่าผู้หิวโหย",
+    "Persistent Predator": "นักล่าผู้ทรหด",
+    "Greedy Gobbler": "จอมเขมือบผู้ตะกละ",
+    "Flounder Pounder": "จอมขยี้ปลาตาเดียว",
+    "Angler Wrangler": "จอมปราบปลาแองเกลอร์",
+    "Marine Masticator": "นักเคี้ยวแห่งท้องทะเล",
+    "Sturgeonator": "สเตอร์เจเนเตอร์",
+    "Gnarly Gnasher": "จอมกัดสุดโหด",
+    "Expert Eater": "เซียนนักกิน",
+    "Hardcore Hunter": "นักล่าพันธุ์ดุ",
+    "Crazy Carnivore": "สัตว์กินเนื้อสุดคลั่ง",
+    "Ferocious Feeder": "จอมเขมือบสุดดุร้าย",
+    "Divine Diner": "นักกินระดับเทพ",
+    "Champion Chomper": "แชมป์จอมเขมือบ",
+    "Perfect Predator": "นักล่าที่สมบูรณ์แบบ",
+    "Frenzy Fanatic": "ผู้คลั่งไคล้การกิน",
+    "Sunken Treasure": "ขุมทรัพย์ใต้สมุทร",
+    "Starfish Reef": "แนวปะการังปลาดาว",
+    "Underwater Cave": "ถ้ำใต้น้ำ",
+    "Deep Sea": "ทะเลลึก",
+    "Lost City": "นครที่สาบสูญ",
+    "Shark Reef": "แนวปะการังฉลาม"
+  },
+  "config/gamewon.xml": {
+    "CONGRATULATIONS!!!": "ขอแสดงความยินดีด้วย!!!",
+    "You've defeated the Shark King!\\nYou've reached the top of the food chain!": "คุณปราบราชาฉลามได้แล้ว!\\nคุณก้าวสู่จุดสูงสุดของห่วงโซ่อาหารแล้ว!",
+    "And you did it playing Timed mode!": "แถมคุณยังทำได้ในโหมดแข่งเวลาด้วย!",
+    "BUT...": "แต่ว่า...",
+    "NOW...": "และตอนนี้...",
+    "The adventure isn't over yet. Do you have what it takes to\\n\r\n\t\t\t\t\twin at timed mode? You'll have to finish each level within a\\n\r\n\t\t\t\t\tfixed time limit to move on.\\n\\n\r\n\t\t\t\t\tPlus, for an extra-special challenge, see if you can unlock all six\\n\r\n\t\t\t\t\tof the screen savers! You'll have to add 10,000 fish to your\\n\r\n\t\t\t\t\tfish bank to do that...": "การผจญภัยยังไม่จบลงเพียงเท่านี้ คุณมีความสามารถพอที่จะ\\n\r\n\t\t\t\t\tชนะในโหมดแข่งเวลาหรือไม่? คุณจะต้องผ่านแต่ละด่านภายใน\\n\r\n\t\t\t\t\tเวลาที่กำหนดเพื่อไปต่อ\\n\\n\r\n\t\t\t\t\tนอกจากนี้ เพื่อความท้าทายสุดพิเศษ ลองปลดล็อกภาพพักหน้าจอ\\n\r\n\t\t\t\t\tทั้งหกแบบดูสิ! คุณจะต้องเก็บปลาสะสมให้ครบ 10,000 ตัวใน\\n\r\n\t\t\t\t\tธนาคารอาหารของคุณเพื่อทำสิ่งนั้น...",
+    "Try to unlock all six of the screen savers! You only need to eat\\n\r\n\t\t\t\t\t10,000 fish to do that...": "ลองปลดล็อกภาพพักหน้าจอให้ครบทั้งหกแบบดูสิ! คุณแค่ต้องกินปลา\\n\r\n\t\t\t\t\tให้ได้ 10,000 ตัวเท่านั้นเอง...",
+    "Done": "ตกลง"
+  },
+  "config/highscore.xml": {
+    "Normal Mode": "โหมดปกติ",
+    "highscore001 . . . . . ": "highscore001 . . . . . ",
+    "highscore002 . . . . . ": "highscore002 . . . . . ",
+    "highscore003 . . . . . ": "highscore003 . . . . . ",
+    "highscore004 . . . . . ": "highscore004 . . . . . ",
+    "highscore005 . . . . . ": "highscore005 . . . . . ",
+    "highscore006 . . . . . ": "highscore006 . . . . . ",
+    "highscore007 . . . . . ": "highscore007 . . . . . ",
+    "highscore008 . . . . . ": "highscore008 . . . . . ",
+    "highscore009 . . . . . ": "highscore009 . . . . . ",
+    "score010 . . . . . . . ": "score010 . . . . . . . ",
+    "10,000": "10,000",
+    "Food Bank Total:": "ยอดรวมธนาคารอาหาร:",
+    "Newbie Nibbler": "จอมแทะมือใหม่",
+    "Done": "ตกลง",
+    "Next >": "ถัดไป >",
+    "< Prev": "< ก่อนหน้า"
+  },
+  "config/highscoreentry.xml": {
+    "\\nYou got a high score!": "\\nคุณทำคะแนนสูงสุดได้!",
+    "Please type in your name and click 'Done'.": "โปรดพิมพ์ชื่อของคุณแล้วคลิก 'ตกลง'",
+    "100,000": "100,000",
+    "abcdefghiklm": "abcdefghiklm",
+    "Done": "ตกลง"
+  },
+  "config/loadscreen.xml": {
+    "Loading...": "กำลังโหลด..."
+  },
+  "config/mainmenu.xml": {
+    "Explore the ocean\\nand eat your way\\nto the top of the \\nfood chain!\\n(Easier)": "สำรวจมหาสมุทร\\nและกินเหยื่อไต่เต้า\\nสู่จุดสูงสุดของ\\nห่วงโซ่อาหาร!\\n(ง่ายกว่า)",
+    "With unlimited lives,\\nsee how far you can\\nlast before the\\nTime Attack Clock\\nruns out!\\n(More Difficult)": "ด้วยชีวิตไม่จำกัด\\nมาดูว่าคุณจะอยู่รอด\\nได้ไกลแค่ไหนก่อนที่\\nนาฬิกาโหมดแข่งเวลา\\nจะหมดลง!\\n(ยากกว่า)",
+    "Credits": "ผู้จัดทำ"
+  },
+  "config/maplayout.xml": {
+    "Next Stage:\\nBlah Blah": "ด่านต่อไป:\\n...",
+    "Click to continue": "คลิกเพื่อไปต่อ",
+    "Loading...": "กำลังโหลด...",
+    "stage name.. some are long": "ชื่อด่าน.. บางชื่อยาว",
+    "Back to Menu": "กลับสู่เมนู"
+  },
+  "config/menusample.xml": {
+    "Fish Food": "อาหารปลา",
+    "New Game": "เกมใหม่"
+  },
+  "config/missingadpcm.xml": {
+    "Feeding Frenzy is unable to detect the ADPCM audio\\n\r\n\t\t\t\t\tcodec. This codec is required for playing many\\n\r\n\t\t\t\t\tof the sound effects in the game. This problem may\\n\r\n\t\t\t\t\toccur if you do not have the codec installed on your\\n\r\n\t\t\t\t\tsystem, or if it has been manually disabled.\\n\\n\r\n\t\t\t\t\tThe game will continue with certain game sounds disabled.\\n": "ฟีดดิงเฟรนซี ไม่สามารถตรวจพบโคเดกเสียง ADPCM\\n\r\n\t\t\t\t\tซึ่งจำเป็นสำหรับการเล่นเสียงประกอบหลายส่วนในเกม\\n\r\n\t\t\t\t\tปัญหานี้อาจเกิดขึ้นหากระบบของคุณไม่ได้ติดตั้งโคเดกนี้ไว้\\n\r\n\t\t\t\t\tหรือมีการปิดการใช้งานด้วยตนเอง\\n\\n\r\n\t\t\t\t\tเกมจะดำเนินต่อไปโดยปิดเสียงประกอบบางส่วน\\n",
+    "OK": "ตกลง"
+  },
+  "config/missingbothcodecs.xml": {
+    "Feeding Frenzy is unable to detect either the MP3 audio\\n\r\n\t\t\t\t\tcodec or the ADPCM codec. These codecs are required for\\n\r\n\t\t\t\t\tplaying the in-game music and many sound effects. This\\n\r\n\t\t\t\t\tproblem may occur if you do not have the codec installed\\n\r\n\t\t\t\t\ton your system, or if it has been manually disabled.\\n\\n\r\n\t\t\t\t\tThe game will continue with certain game sounds\\nand music disabled.\\n": "ฟีดดิงเฟรนซี ไม่สามารถตรวจพบโคเดกเสียง MP3\\n\r\n\t\t\t\t\tหรือโคเดก ADPCM ซึ่งจำเป็นสำหรับการเล่นดนตรีในเกม\\n\r\n\t\t\t\t\tและเสียงประกอบหลายส่วน ปัญหานี้อาจเกิดขึ้นหากคุณ\\n\r\n\t\t\t\t\tไม่ได้ติดตั้งโคเดกไว้ในระบบ หรือมีการปิดใช้งานด้วยตนเอง\\n\\n\r\n\t\t\t\t\tเกมจะดำเนินต่อไปโดยปิดเสียงประกอบบางส่วน\\nและปิดดนตรีประกอบ\\n",
+    "OK": "ตกลง"
+  },
+  "config/missingmp3.xml": {
+    "Feeding Frenzy is unable to detect the MP3 audio\\n\r\n\t\t\t\t\tcodec. This codec is required for playing the in-\\n\r\n\t\t\t\t\tgame music. This problem may occur if you do not\\n\r\n\t\t\t\t\thave the codec installed on your system, or if it\\n\r\n\t\t\t\t\thas been manually disabled.\\n\\n\r\n\t\t\t\t\tThe game will continue with game music disabled.\\n": "ฟีดดิงเฟรนซี ไม่สามารถตรวจพบโคเดกเสียง MP3\\n\r\n\t\t\t\t\tซึ่งจำเป็นสำหรับการเล่นดนตรีประกอบในเกม\\n\r\n\t\t\t\t\tปัญหานี้อาจเกิดขึ้นหากคุณไม่ได้ติดตั้งโคเดกไว้ในระบบ\\n\r\n\t\t\t\t\tหรือมีการปิดการใช้งานด้วยตนเอง\\n\\n\r\n\t\t\t\t\tเกมจะดำเนินต่อไปโดยปิดดนตรีประกอบ\\n",
+    "OK": "ตกลง"
+  },
+  "config/optionscreen.xml": {
+    "Game Options": "ตั้งค่าเกม",
+    "Sound": "เสียง",
+    "Music": "ดนตรี",
+    "Fullscreen": "เต็มจอ",
+    "Help Bubbles": "คำแนะนำ",
+    "Mouse Speed": "ความเร็วเมาส์",
+    "Mouse Slow": "เมาส์ช้า",
+    "Slow": "ช้า",
+    "Mouse Fast": "เมาส์เร็ว",
+    "Fast": "เร็ว",
+    "Sound error detected.\\nPlease check your\\nhardware and drivers.\\n": "ตรวจพบข้อผิดพลาดของเสียง\\nโปรดตรวจสอบฮาร์ดแวร์\\nและไดรเวอร์ของคุณ\\n",
+    "Done": "ตกลง",
+    "Version 1.0.0.0": "เวอร์ชัน 1.0.0.0"
+  },
+  "config/pausescreen.xml": {
+    "Game Paused": "พักเกม",
+    "Resume": "เล่นต่อ",
+    "Options": "ตั้งค่า",
+    "End Game": "จบเกม"
+  },
+  "config/ssunlock.xml": {
+    "NEW SCREEN SAVER!": "ภาพพักหน้าจอใหม่!",
+    "You've earned enough Food Bank points to\\nunlock a new Feeding Frenzy screen saver!": "คุณสะสมแต้มธนาคารอาหารได้มากพอเพื่อ\\nปลดล็อกภาพพักหน้าจอ ฟีดดิงเฟรนซี แบบใหม่!",
+    "You've earned enough Food Bank points to unlock\\nall the Feeding Frenzy screen savers! GREAT JOB!": "คุณสะสมแต้มธนาคารอาหารได้มากพอเพื่อปลดล็อก\\nภาพพักหน้าจอ ฟีดดิงเฟรนซี ทั้งหมดแล้ว! ยอดเยี่ยมมาก!",
+    "NEW SAVER: Sunken Treasure": "ภาพพักหน้าจอใหม่: ขุมทรัพย์ใต้สมุทร",
+    "USING SCREEN SAVERS:": "วิธีใช้งานภาพพักหน้าจอ:",
+    "Try out your new screen saver! Close the game, right-click\\n\r\n\t\t\t\t\ton your desktop and choose Properties, go to Screen Saver and\\n\r\n\t\t\t\t\tselect 'FeedingFrenzy' from the drop-down list, then click on the\\n\r\n\t\t\t\t\t'Settings' button and choose a screen saver. Try to unlock all 6!\\n\r\n\t\t\t": "ลองใช้ภาพพักหน้าจอใหม่ดูสิ! ปิดเกมแล้วคลิกขวา\\n\r\n\t\t\t\t\tบนเดสก์ท็อป เลือก Properties ไปที่แท็บ Screen Saver แล้ว\\n\r\n\t\t\t\t\tเลือก 'FeedingFrenzy' จากรายการ จากนั้นคลิกปุ่ม\\n\r\n\t\t\t\t\t'Settings' แล้วเลือกภาพพักหน้าจอ ลองปลดล็อกให้ครบทั้ง 6 แบบนะ!\\n\r\n\t\t\t",
+    "Try out your new screen saver! Close the game, right-click\\n\r\n\t\t\t\t\ton your desktop and choose Properties, go to Screen Saver and\\n\r\n\t\t\t\t\tselect 'FeedingFrenzy' from the drop-down list, then click on the\\n\r\n\t\t\t\t\t'Settings' button and pick from the list of screen savers.\\n\r\n\t\t\t": "ลองใช้ภาพพักหน้าจอใหม่ดูสิ! ปิดเกมแล้วคลิกขวา\\n\r\n\t\t\t\t\tบนเดสก์ท็อป เลือก Properties ไปที่แท็บ Screen Saver แล้ว\\n\r\n\t\t\t\t\tเลือก 'FeedingFrenzy' จากรายการ จากนั้นคลิกปุ่ม\\n\r\n\t\t\t\t\t'Settings' เพื่อเลือกภาพพักหน้าจอจากรายการได้เลย\\n\r\n\t\t\t",
+    "Done": "ตกลง"
+  },
+  "config/stagechooser.xml": {
+    "Where do you want to start?": "คุณต้องการเริ่มจากตรงไหน?",
+    "Choose a Fish": "เลือกปลา",
+    "Back": "ย้อนกลับ"
+  },
+  "config/stages/stagecompletebase.xml": {
+    "STAGE COMPLETE!": "ผ่านด่านแล้ว!",
+    "Food Bank:": "ธนาคารอาหาร:",
+    "000,000": "000,000",
+    "Minnow Muncher": "จอมเคี้ยวมินโนว์",
+    "Time Attack Clock:": "นาฬิกาโหมดแข่งเวลา:",
+    "Fish Eaten:": "ปลาที่กินได้:",
+    "Percent Complete:": "เปอร์เซ็นต์สำเร็จ:",
+    "0 %": "0 %",
+    "Time Bonus!": "โบนัสเวลา!",
+    "Time Remaining:": "เวลาที่เหลือ:",
+    "Time Bonus:": "โบนัสเวลา:",
+    "Score:": "คะแนน:",
+    "Fun Fact": "เกร็ดน่ารู้",
+    "Legend has it that the black spot on the side of the\\n\r\n\t\t\t\t\t\tJohn Dory fish is the thumbprint of Saint Peter!": "มีตำนานเล่าว่า จุดสีดำด้านข้างลำตัวของปลาจอห์น ดอรี\\n\r\n\t\t\t\t\t\tคือรอยนิ้วหัวแม่มือของนักบุญเปโตร!",
+    "000,000 (master fish eater)": "000,000 (ยอดนักกินปลา)",
+    "Continue": "เล่นต่อ",
+    "Options": "ตั้งค่า",
+    "Quit Game": "ออกจากเกม"
+  },
+  "config/stages/stagestartbase.xml": {
+    "Stage XX: <<title goes here>>\\n": "ด่าน XX: <<ชื่อด่านที่นี่>>\\n",
+    "New Time Added:": "เวลาที่เพิ่มให้:",
+    "Total Time Attack Clock:": "เวลารวมโหมดแข่งเวลา:",
+    "Continue": "เล่นต่อ",
+    "Options": "ตั้งค่า",
+    "Quit Game": "ออกจากเกม"
+  }
+}
